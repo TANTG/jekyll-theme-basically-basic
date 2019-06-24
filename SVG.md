@@ -1,4 +1,6 @@
 ---
-title: "学习笔记"
+title: "SVG"
 layout: about
+permalink: /categories/SVG/
+taxonomy: SVG
 ---
