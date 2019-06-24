@@ -1,6 +1,7 @@
 ---
 title: "关于我"
 layout: about
+image: assets/images/about.jpg
 ---
 
 ### 关于我
