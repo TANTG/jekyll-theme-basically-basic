@@ -1,6 +1,7 @@
 ---
 title: "HTML新标签知多少"
 layout: posts
+categories: - 学习笔记
 tags:
   - html
   - 新标签
