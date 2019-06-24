@@ -1,6 +1,6 @@
 ---
 title: "SVG"
-layout: about
+layout: category
 permalink: /categories/SVG/
 taxonomy: SVG
 ---
