@@ -1,5 +1,5 @@
 ---
-title: "老师：要注意卷、面字的书写！"
+title: "老师：要注意排版、字体等！"
 layout: posts
 categories:
      - 平面设计
