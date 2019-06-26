@@ -1,7 +1,6 @@
 ---
-title: "老师：要注意卷面！字的书写！"
+title: "老师：要注意卷、面字的书写！"
 layout: posts
-excerpt_separator:"<!--more-->"
 categories:
      - 平面设计
 ---
