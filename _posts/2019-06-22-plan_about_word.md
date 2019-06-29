@@ -1,6 +1,6 @@
 ---
 title: "老师：要注意排版、字体等！"
-layout: posts
+layout: page
 categories:
      - 平面设计
 ---

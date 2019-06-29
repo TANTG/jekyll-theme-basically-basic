@@ -1,6 +1,6 @@
 ---
 title: "你想要的平面设计素材应该都有吧？"
-layout: posts
+layout: page
 categories:
      - 平面设计
 ---

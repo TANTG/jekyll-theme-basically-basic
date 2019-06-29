@@ -1,6 +1,6 @@
 ---
 title: "### 我们要如何使得在点链接的时候觉得不单调"
-layout: posts
+layout: page
 categories:
      - 网站设计
 ---

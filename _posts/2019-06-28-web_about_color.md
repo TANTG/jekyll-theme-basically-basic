@@ -1,6 +1,6 @@
 ---
 title: "### 皮肤、颜色轻松换掉"
-layout: posts
+layout: page
 categories:
      - 网站设计
 ---

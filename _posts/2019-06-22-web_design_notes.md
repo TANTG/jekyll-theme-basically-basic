@@ -1,6 +1,6 @@
 ---
 title: "响应式是什么？"
-layout: posts
+layout: page
 categories:
      - 网站设计
 ---
