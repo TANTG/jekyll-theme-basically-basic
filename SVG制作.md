@@ -1,7 +1,7 @@
 ---
-title: "SVG"
+title: "SVG制作"
 layout: category
-permalink: /categories/SVG/
-taxonomy: SVG
+permalink: /categories/SVG制作/
+taxonomy: SVG制作
 image: assets/images/svg.jpg
 ---
